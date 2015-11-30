@@ -1,0 +1,19 @@
+{
+  "name": "jaydata-v2-idiomatic",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaydata/jaydata-v2-idiomatic.git"
+  },
+  "author": "Peter Zentai <peter.zentai@jaystack.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaydata/jaydata-v2-idiomatic/issues"
+  },
+  "homepage": "https://github.com/jaydata/jaydata-v2-idiomatic#readme"
+}
